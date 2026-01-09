@@ -1,5 +1,14 @@
 # 🪲 Maria Rita Vieira Souza
 
+*(English Version)*
+My name is Maria Rita, I am a 19-year-old Computer Science undergraduate at the Federal University of Uberlândia (UFU). I as the Vice-Director of Products at DACOMP (Computer Science Student Union) and am a member of COMPPET (Computer Science Tutorial Education Program), where I conduct a scientific research focusing on cryptocurrency forensics. Furthermore, I participate in some competitive programming marathons.
+
+Fun fact: I am passionate about crochet, sewing, and handcrafts in general 🪡🧶
+
+##
+
+*(Versão em Português)*
+
 Me chamo Maria Rita, tenho 19 anos e sou natural de Minas Gerais. Atualmente, curso Ciência da Computação na UFU, onde participo do DACOMP como Vice-Diretora de Produtos e do COMPPET, no qual realizo uma iniciação científica sobre análise forense em criptomoedas. Além disso, atuo como competidora em algumas maratonas de programação.
 
 Fato curioso: eu amo crochê, costura e artesanato no geral 🪡🧶
@@ -19,7 +28,7 @@ Fato curioso: eu amo crochê, costura e artesanato no geral 🪡🧶
 </div>
 
 ##
-### Linguagens e Tecnologias
+### Languages and Technologies/ Linguagens e Tecnologias:
 <img
   align="left"
   alt="GitHub"
