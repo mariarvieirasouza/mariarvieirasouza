@@ -2,7 +2,7 @@
 
 *(English Version)*
 
-My name is Maria Rita, I am a 19-year-old Computer Science undergraduate at the Federal University of Uberlândia (UFU). I am currently the Vice-Director of Products at DACOMP (Computer Science Student Union) and an active member of COMPPET (Computer Science Tutorial Education Program), where I conduct a scientific research focusing on cryptocurrency forensics. Furthermore, I participate in some competitive programming marathons.
+My name is Maria Rita, I am a 20-year-old Computer Science undergraduate at the Federal University of Uberlândia (UFU). I am currently the Vice-Director of Products at DACOMP (Computer Science Student Union) and an active member of COMPPET (Computer Science Tutorial Education Program), where I conduct a scientific research focusing on cryptocurrency forensics. Furthermore, I participate in some competitive programming marathons.
 
 Fun fact: I am passionate about crochet, sewing, and handcrafts in general 🪡🧶
 
@@ -10,7 +10,7 @@ Fun fact: I am passionate about crochet, sewing, and handcrafts in general 🪡�
 
 *(Versão em Português)*
 
-Me chamo Maria Rita, tenho 19 anos e sou natural de Minas Gerais. Atualmente, curso Ciência da Computação na UFU, onde participo do DACOMP como Vice-Diretora de Produtos e do COMPPET, no qual realizo uma iniciação científica sobre análise forense em criptomoedas. Além disso, atuo como competidora em algumas maratonas de programação.
+Me chamo Maria Rita, tenho 20 anos e sou natural de Minas Gerais. Atualmente, curso Ciência da Computação na UFU, onde participo do DACOMP como Vice-Diretora de Produtos e do COMPPET, no qual realizo uma iniciação científica sobre análise forense em criptomoedas. Além disso, atuo como competidora em algumas maratonas de programação.
 
 Fato curioso: eu amo crochê, costura e artesanato no geral 🪡🧶
 
